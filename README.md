@@ -20,9 +20,7 @@ A aplicação consiste em uma página web para obter de forma simples e intuitiv
 - Integração do back end e front end
 
 ## Layout web
-![Backend](https://github.com/rafaelmaiia/dsmeta/assets/106180433/4703ffcf-e03e-4c95-b630-7fa829a1d2ff)
-
-![Frontend](https://github.com/rafaelmaiia/dsmeta/assets/106180433/5f67a2a0-c213-47b8-b582-9591f488c9e1)
+![image](https://github.com/rafaelmaiia/dsmeta/assets/106180433/6d4740c7-ced9-40f9-91c6-a8d35899ee90)
 
 ## Composição do projeto
 ![comp](https://github.com/rafaelmaiia/dsmeta/assets/106180433/3964d370-ef89-4379-84bf-dcbb2280f2c9)
