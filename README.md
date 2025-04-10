@@ -1,11 +1,11 @@
-# DSMeta
+# MetaSales
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rafaelmaiia/dsmeta/blob/main/LICENSE) 
 
 # Sobre o projeto
 
 https://dsmeta-rafaelmaia.netlify.app/
 
-DSMeta é uma aplicação full stack web construída durante a **Semana Spring React**, evento organizado pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+MetaSales é uma aplicação full stack web construída durante a **Semana Spring React**, evento organizado pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma página web para obter de forma simples e intuitiva dados relacionados as vendas de uma determinada empresa, onde é possível consultar uma tabela com dados de vendedores para avaliar suas metas alcançadas e enviar um SMS com os dados do vendedor, anunciando que ele foi o destaque de vendas, dentro de um período filtrado por datas.
 
